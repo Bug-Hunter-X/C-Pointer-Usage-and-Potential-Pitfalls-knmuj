@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a potential issue with pointer usage.  The program correctly modifies a variable's value through a pointer. However, it serves as a starting point for discussion on pointer-related errors such as dangling pointers, memory leaks, and segmentation faults.
